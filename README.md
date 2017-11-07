@@ -9,3 +9,7 @@ Usage is licensed under the License file.
 Happy for anyone to PR/Issue etc. Constructive criticism is also appreciated.
 
 To run the code the usage is `Usage: java -jar [PATH]directorydetails.jar [head directory]`
+
+Or to use the windows built in which is quicker and neater 
+1 - CD to heading dir
+2 - `tree > "[output txt file].txt /F /A"`
